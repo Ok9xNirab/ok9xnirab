@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [https://nirab.xyz](https://nirab.xyz)
 
-- 💬 Ask me about **laravel, vue**
+- 💬 Ask me about **laravel, vue, WordPress**
 
 - 📫 How to reach me **istiaqanirab202@gmail.com**
 
