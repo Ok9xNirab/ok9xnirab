@@ -1,11 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
 #### I'm a Full-Stack Developer.
 
-- 🏢 I'm currently working at **SpringDEvs**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`
-- 🌍 I'm mostly active within the **WordPress Plugin Development**
-- 💅 Contributed: [Missing Addons for WooCommerce](https://wordpress.org/plugins/wc-essential-addons/)
-- 🌱 Learning all about **Dart, Flutter**
-- 💬 Ping me about **laravel**, **wordpress**
-- 📫 Reach me: [twitter.com/Ok9xNirab](https://twitter.com/Ok9xNirab)
+<details><summary><b>WordPress Plugin's i develop</b> (Click to expand)</summary>
+<p>
+<ul>
+  <li>
+    <p>
+      <a href="https://wordpress.org/plugins/advance-coupons-for-woocommerce/">Advance Coupons for Woocommerce</a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href="https://wordpress.org/plugins/bulk-products-selling/">Bulk Product Selling</a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href="https://wordpress.org/plugins/wc-pre-order/">Pre Order Addon for WooCommerce – Advance Order/Backorder Plugin</a>
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href="https://wordpress.org/plugins/product-sharing-buttons/">Social Sharing Button</a>
+    </p>
+  </li>
+</ul>
+</p>
+</details>
