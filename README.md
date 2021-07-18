@@ -17,6 +17,11 @@
   </li>
   <li>
     <p>
+      <a href="https://wordpress.org/plugins/checkout-field-customizer/" target="_blank">Checkout Field Customizer</a>
+    </p>
+  </li>
+  <li>
+    <p>
       <a href="https://wordpress.org/plugins/wc-pre-order/">Pre Order Addon for WooCommerce – Advance Order/Backorder Plugin</a>
     </p>
   </li>
