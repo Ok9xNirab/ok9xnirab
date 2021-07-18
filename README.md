@@ -17,7 +17,7 @@
   </li>
   <li>
     <p>
-      <a href="https://wordpress.org/plugins/checkout-field-customizer/" target="_blank">Checkout Field Customizer</a>
+      <a href="https://wordpress.org/plugins/checkout-field-customizer/">Checkout Field Customizer</a>
     </p>
   </li>
   <li>
