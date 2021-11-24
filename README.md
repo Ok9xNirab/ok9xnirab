@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer.
 
-<details><summary><b>WordPress Plugin's i develop</b> (Click to expand)</summary>
+<b>WordPress Plugin's i develop 👇</b>
 <p>
 <ul>
   <li>
@@ -37,6 +37,5 @@
   </li>
 </ul>
 </p>
-</details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok9xnirab&langs_count=10&layout=compact&hide=hack,shell)
